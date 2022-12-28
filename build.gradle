@@ -21,7 +21,7 @@ ext {
     navVersion = '2.5.3'
     glideVersion = '4.14.2'
     retrofitVersion = '2.9.0'
-    roomVersion = '2.4.1'
+    roomVersion = '2.4.3'
 }
 
 task clean(type: Delete) {
